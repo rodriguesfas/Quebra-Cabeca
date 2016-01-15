@@ -1,0 +1,1 @@
+mantenha o arquivo .jar no mesmo diretorio com a pasta res.
